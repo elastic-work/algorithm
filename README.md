@@ -1,40 +1,34 @@
 # algorithm
 
-- 栈
-- 堆
-- 贪心算法
-- 排序
-- 位运算
-- 树
-- 广度优先遍历
-- 深度优先遍历
-- 并查集
-- 图
-- 设计
-- 拓扑排序
-- 字典树
-- 树状数组
-- 线段树
-- 二叉搜索树
-- 递归
-- 脑筋急转弯
-- 记忆化
-- 队列
-- 极小化极大
-- 蓄水池抽样
-- 几何
--  Map
-- 数组
-- 哈希表
-- 链表
-- 数学
-- 双指针
-- 二分查找
-- 分治算法
-- 动态规划
-- 回溯算法
-- Random随机
+- [栈](./栈/README.md)
+- [堆](./堆/README.md)
+- [贪心算法](./贪心算法/README.md)
+- [排序](./排序/README.md)
+- [位运算](./位运算/README.md)
+- [广度优先遍历](./广度优先遍历/README.md)
+- [深度优先遍历](./深度优先遍历/README.md)
+- [并查集](./并查集/README.md)
+- [设计](./设计/README.md)
+- [字典树](./字典树/README.md)
+- [树状数组](./树状数组/README.md)
+- [线段树](./线段树/README.md)
+- [递归](./递归/README.md)
+- [记忆化](./记忆化/README.md)
+- [极小化极大](./极小化极大/README.md)
+- [蓄水池抽样](./蓄水池抽样/README.md)
+- [几何](./几何/README.md)
+- [数组](./数组/README.md)
+  - [两数之和](./数组/两数之和/两数量之和.md)
+- [哈希表](./哈希表/README.md)
+- [链表](./链表/README.md)
+- [数学](./数学/README.md)
+- [双指针](./双指针/README.md)
+- [二分查找](./二分查找/README.md)
+- [分治算法](./分治算法/README.md)
+- [动态规划](./动态规划/README.md)
+- [回溯算法](./回溯算法/README.md)
+- [Random随机](./Random随机/README.md)
 - Rejection Sampling (拒绝抽样)
 -  Sliding Window (滑动窗口)
 - Ordered Map (有序映射)
-- Line Sweep (行扫描）
+- Line Sweep (行扫描） 
