@@ -29,7 +29,7 @@
 - [回溯算法](./回溯算法/README.md)
 - [Random随机](./Random随机/README.md)
 - Rejection Sampling (拒绝抽样)
-- [Sliding Window (滑动窗口)](./Sliding Window(滑动窗口)/README.md)
-   - [无重复字符的最长子串](./Sliding Window(滑动窗口)/无重复字符的最长子串/无重复最长子串.md)
+- [Sliding Window (滑动窗口)](./Sliding Window (滑动窗口)/README.md)
+   - [无重复字符的最长子串](./Sliding Window (滑动窗口)/无重复字符的最长子串/无重复最长子串.md)
 - Ordered Map (有序映射)
 - Line Sweep (行扫描） 
