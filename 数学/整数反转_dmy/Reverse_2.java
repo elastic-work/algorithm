@@ -1,10 +1,10 @@
-class Reverse_1{
+public class Reverse_2{
 
     public static void main(String[] args) {
-        int res = reverse(120);
+        int res = reverse(9010900);
         System.out.println(res);
     }
-    public int reverse(int i){
+    public static int reverse(int i){
         //返回结果初始值
         int res = 0;
         //过滤掉最后一位数为0或者当前数为0
