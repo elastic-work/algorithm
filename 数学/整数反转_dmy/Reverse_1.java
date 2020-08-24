@@ -1,10 +1,10 @@
-class Reverse_1{
+public class Reverse_1{
 
     public static void main(String[] args) {
-        int res = reverse(120);
+        int res = reverse(9010900);
         System.out.println(res);
     }
-    public int reverse(int i){
+    public static int reverse(int i){
         int res = i;
         if (i<0){
             res=0-i;
@@ -14,7 +14,7 @@ class Reverse_1{
         char []cs2 = new char[cs.length];
         for (int j=0;j<cs.length;j++){
             cs2[j]=cs[cs.length-1-j];
-            if (cs2[j]=='0'){
+            if (j == cs.length-1 && j==0 && cs2[j]=='0'){
                 cs2[j]=' ';
             }
         }
