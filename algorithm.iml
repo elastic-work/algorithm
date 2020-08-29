@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/数组/有效字母异位词" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/数组/转换成小写字母" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SlidingWindow（滑动窗口）/无重复字符的最长子串" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/数组/机器人能否返回原点" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
