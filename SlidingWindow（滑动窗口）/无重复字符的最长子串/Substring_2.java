@@ -1,4 +1,6 @@
-class Substring_1{
+import java.util.HashMap;
+
+public class Substring_2{
     /**
      * 无重复字符的最长子串
      * 题目描述：给定一个字符串，请你找出其中不含有重复字符的“最长子串”的长度。
@@ -27,15 +29,15 @@ class Substring_1{
      * @return
      */
     public static int getSubstring(String str){
-        if (s.length() == 0)
+        if (str.length() == 0)
             return 0;
         HashMap<Character, Integer> map = new HashMap<>();
         int max = 0;
-        for (int i = 0, j = 0; i < s.length(); ++i) {
-            if (map.containsKey(s.charAt(i))) {
-                j = Math.max(j, map.get(s.charAt(i)) + 1);
+        for (int i = 0, j = 0; i < str.length(); ++i) {
+            if (map.containsKey(str.charAt(i))) {
+                j = Math.max(j, map.get(str.charAt(i)) + 1);
             }
-            map.put(s.charAt(i), i);
+            map.put(str.charAt(i), i);
             max = Math.max(max, i - j + 1);
         }
         return max;
